@@ -48,6 +48,6 @@ As a cybersecurity professional with a CompTIA Security+ certification and exten
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
+
 
 
